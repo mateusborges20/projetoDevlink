@@ -1,0 +1,29 @@
+body {
+  font-family: "Fira Sans", Arial, sans-serif;
+  margin: 60px;
+  background: #141414;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+p, h1, h2 ,h3{
+  margin: 0px;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+.container-principal {
+  border-radius: 4px;
+  max-width: 440px;
+  margin: 0 auto;
+  background: #1f1f1f;
+  color: #fff;
+}
